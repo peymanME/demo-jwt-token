@@ -1,0 +1,5 @@
+jwt:
+  user: demo
+  get:
+    token:
+      uri: /auth
